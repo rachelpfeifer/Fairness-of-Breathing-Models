@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+.DS_Store
+COPD Data/
+COVID Data/
+Model Data/
+Preprocessing/
+Multitask-Breath-Sound-master/
+Extracted_data/
